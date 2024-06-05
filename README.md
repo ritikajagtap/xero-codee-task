@@ -16,21 +16,14 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This is an Auth app made by integrating appwrite. It has the option of login through email, google or github. It also contains a logout option.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Screenshots:
+![image](https://github.com/ritikajagtap/xero-codee-task/assets/79222361/ceb8c920-4ed9-4009-8e42-f2a0748b2eb3)
+![image](https://github.com/ritikajagtap/xero-codee-task/assets/79222361/b080ac7b-1c03-442c-a149-309fbdeb9e1f)
+![image](https://github.com/ritikajagtap/xero-codee-task/assets/79222361/853493e9-c50e-4b51-91ec-a1f565415b43)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
